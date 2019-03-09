@@ -100,7 +100,7 @@ def menu():
             /     o O o o o o O O o o o o o o O o  |\_
             `~-.__        ___..----.. IPilot           )
                   `---~~\___________/------------`````
-                  =  ===(_________D        by Joe
+                  =  ===(_________D
     """)
     print
     print("1) Geolocate IP(BASIC)")
